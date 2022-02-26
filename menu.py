@@ -77,7 +77,7 @@ Notebook Menu
             self.notebook.modify_tags(id, tags)
     def quit(self):
         """
-        the last line, which is wrote in our proggramm
+        the last line, which is wrote in our programm
         """
         print("Thank you for using your notebook today.")
         sys.exit(0)
