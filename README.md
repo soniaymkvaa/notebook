@@ -7,7 +7,7 @@ notebook.py:
 class Note represents a ote in our notebook and matchs against a string in searches and store tags for each note.Function __init__ initializes a note with memo and optionalspace-separated tags and automatically sets the note's creation date and a unique id. Function match determines if this note matches the filter text. Return True if it matches, False otherwise.
 
 class Notebook represents a collection of notes that can be tagged,modified, and searched. '__init__' initializes a notebook with an empty list; 'new_notes' - creates a new note and add it to the list;
-'find_note' locates the note with the diven id; modify_memo finds the note wih the given id and changes its memo to the given value; 'modify_tags' finds the note with the given is and changes its tags to the given value and 'search' finds all notes that match the given filter string.
+'find_note' locates the note with the diven id; 'modify_memo' finds the note wih the given id and changes its memo to the given value; 'modify_tags' finds the note with the given is and changes its tags to the given value and 'search' finds all notes that match the given filter string.
 
 menu.py:
 
