@@ -1,6 +1,6 @@
 # notebook
 
-We have 2 files here. The first one called notebook.py has 2 classes, which we use in the second fine menu.py.
+We have 2 files here. The first one called notebook.py has 2 classes, which we use in the second file menu.py.
 
 notebook.py:
 
