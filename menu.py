@@ -81,8 +81,5 @@ Notebook Menu
         """
         print("Thank you for using your notebook today.")
         sys.exit(0)
-#if __name__ == "__main__":
-#    Menu().run()
-
-import doctest
-print(doctest.testmod())
+if __name__ == "__main__":
+    Menu().run()
